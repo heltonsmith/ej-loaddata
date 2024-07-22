@@ -1,0 +1,18 @@
+[
+    {
+        "model": "web.region", 
+        "pk": 1, 
+        "fields": 
+        {
+            "nombre": "Región de Arica y Parinacota"
+        }
+    },
+    {
+        "model": "web.region", 
+        "pk": 2, 
+        "fields": 
+        {
+            "nombre": "Región de Tarapacá"
+        }
+    }
+]

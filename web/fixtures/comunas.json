@@ -1,0 +1,18 @@
+[
+    {
+        "model": "web.comuna", 
+        "pk": 1, 
+        "fields": {
+            "nombre": "Arica", 
+            "region": 1
+        }
+    },
+    {
+        "model": "web.comuna", 
+        "pk": 2, 
+        "fields": {
+            "nombre": "Iquique", 
+            "region": 2
+        }
+    }
+]

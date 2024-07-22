@@ -1,0 +1,22 @@
+[
+    {
+        "model": "web.inmueble", 
+        "pk": 1, 
+        "fields": {
+            "nombre": "Casa en Arica", 
+            "tipo": 1, 
+            "comuna": 1, 
+            "usuario": 1
+        }
+    },
+    {
+        "model": "web.inmueble", 
+        "pk": 2, 
+        "fields": {
+            "nombre": "Departamento en Iquique", 
+            "tipo": 2, 
+            "comuna": 2, 
+            "usuario": 2
+        }
+    }
+]
